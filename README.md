@@ -1,7 +1,7 @@
 
 
 Welcome to Hacka Music Visualizer 🎵
-(Yes, the name is inspired by HackaTime!)
+(Yes, the name is inspired from HackaTime!)
 
 Hacka Music Visualizer is a cool and unique music player with an awesome visualizer.
 It transforms music into stunning visual effects that enhance your listening experience.
