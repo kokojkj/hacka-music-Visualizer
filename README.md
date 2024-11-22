@@ -14,7 +14,7 @@ Try It Out!
 I’m not adding photos—experience it by yourself! 🎶
 
 👉 Test it out here: https://kokojkj.github.io/hacka-music-Visualizer/
-A sample track is included to get you started.
+A sample track is included test it .
 
 
 Good luck! 🎶
